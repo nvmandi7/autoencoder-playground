@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# ------------------------------------------
+*.code-workspace
+*.DS_Store
+.vscode/
+
+# Avoid committing data files
+*/data/*
